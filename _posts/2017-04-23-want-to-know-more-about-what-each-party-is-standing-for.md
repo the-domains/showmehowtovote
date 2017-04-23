@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Around a general election each party brings out a document called a manifesto.
-dateModified: '2017-04-23T18:42:05.752Z'
-datePublished: '2017-04-23T18:42:05.896Z'
+dateModified: '2017-04-23T18:48:46.659Z'
+datePublished: '2017-04-23T18:48:47.154Z'
 title: Want to know more about what each party is standing for?
 author: []
 publisher:
@@ -11,11 +11,12 @@ publisher:
   favicon: 'http://labour.org.uk/page/-/site/img/favicon.ico'
   domain: www.labour.org.uk
 via: {}
-isBasedOnUrl: 'http://www.labour.org.uk/index.php/10-pledges'
 sourcePath: _posts/2017-04-23-want-to-know-more-about-what-each-party-is-standing-for.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-23T18:29:04.951Z'
-_type: MediaObject
+url: want-to-know-more-about-what-each-party-is-standing-for/index.html
+_type: Article
 
 ---
 # Want to know more about what each party is standing for?
