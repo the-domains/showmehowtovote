@@ -1,9 +1,6 @@
-name: showmehowtovote
-layout_spectrum: 0.2579420767724514
 typography_spectrum: 0.6291373744606972
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -15,18 +12,19 @@ color:
   lightness: 0.3411832069978118
   saturation: 0.4217274314723909
   rhythmicContrast: 0.7489525778219104
-purpose:
-  - type: external
-    url: 'https://www.gov.uk/register-to-vote'
-    label: Register right here
-  - type: external
-    url: 'https://www.gov.uk/voting-in-the-uk/postal-voting'
-    label: Vote by post
-title: Show me how to vote
-description: Voting made easy
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.2579420767724514
 author: {}
-content_rating:
-  adult: false
+name: showmehowtovote
+url: 'http://showmehowtovote.co.uk/'
+navigation:
+  - name: How To Vote
+    id: f0dd0367-be32-4e21-a53e-24b2f790c8d6
+    type: content
+title: Show me how to vote
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -37,8 +35,6 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      '@type': VideoObject
-      '@context': 'http://schema.org'
       isBasedOnUrl: 'https://youtu.be/QhLk8AKh19c'
       keywords:
         - kinolibrary
@@ -54,23 +50,31 @@ content:
         - polling station
         - voting
         - electi...
+      author:
+        - name: thekinolibrary
+          url: 'https://www.youtube.com/user/thekinolibrary'
+          avatar: {}
+      '@context': 'http://schema.org'
       title: '1997 UK General Election, People Voting, Polling Stations'
+      '@type': VideoObject
       publisher:
         name: YouTube
         domain: youtu.be
         url: 'https://www.youtube.com/'
         favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-      author:
-        - name: thekinolibrary
-          url: 'https://www.youtube.com/user/thekinolibrary'
-          avatar: {}
-      starred: false
       description: >-
         From the Kinolibrary archive film collections. To order the clip clean
         and high res visit http://www.kinolibrary.com. Clip ref DW022029 1997 UK
         General Election, people voting
+      starred: false
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
-url: 'http://showmehowtovote.co.uk/'
+description: Voting made easy
+purpose:
+  - type: external
+    url: 'https://www.gov.uk/register-to-vote'
+    label: Register right here
+  - type: external
+    url: 'https://www.gov.uk/voting-in-the-uk/postal-voting'
+    label: Vote by post
