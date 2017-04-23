@@ -27,6 +27,9 @@ navigation:
   - name: Postal Voting Explained
     id: 1b231136-fb7a-49b7-864f-0404c3059bd7
     type: content
+  - name: National Insurance Number Help
+    id: f729673c-2c68-4d1c-a527-a3f17b0d964c
+    type: content
 title: Show me how to vote
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
