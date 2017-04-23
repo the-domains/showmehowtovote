@@ -24,6 +24,9 @@ navigation:
   - name: How To Vote
     id: f0dd0367-be32-4e21-a53e-24b2f790c8d6
     type: content
+  - name: Postal Voting Explained
+    id: 1b231136-fb7a-49b7-864f-0404c3059bd7
+    type: content
 title: Show me how to vote
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
