@@ -30,6 +30,9 @@ navigation:
   - name: National Insurance Number Help
     id: f729673c-2c68-4d1c-a527-a3f17b0d964c
     type: content
+  - name: Manifesto Info
+    id: 5babdd8a-15d8-479c-bbba-895902b1bf57
+    type: content
 title: Show me how to vote
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
