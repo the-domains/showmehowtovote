@@ -83,7 +83,7 @@ description: Voting made easy
 purpose:
   - type: external
     url: 'https://www.gov.uk/register-to-vote'
-    label: Register right here
+    label: Register Now
   - type: external
     url: 'https://www.gov.uk/voting-in-the-uk/postal-voting'
     label: Vote by post
