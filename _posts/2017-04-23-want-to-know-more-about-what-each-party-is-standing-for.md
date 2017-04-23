@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Around a general election each party brings out a document called a manifesto.
-dateModified: '2017-04-23T18:41:15.172Z'
-datePublished: '2017-04-23T18:41:15.758Z'
+dateModified: '2017-04-23T18:42:05.752Z'
+datePublished: '2017-04-23T18:42:05.896Z'
 title: Want to know more about what each party is standing for?
 author: []
 publisher:
