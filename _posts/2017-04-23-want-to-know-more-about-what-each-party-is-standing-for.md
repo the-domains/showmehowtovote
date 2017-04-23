@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: TBC
-dateModified: '2017-04-23T18:35:43.092Z'
-datePublished: '2017-04-23T18:35:43.738Z'
+description: Around a general election each party brings out a document called a manifesto.
+dateModified: '2017-04-23T18:41:15.172Z'
+datePublished: '2017-04-23T18:41:15.758Z'
 title: Want to know more about what each party is standing for?
 author: []
 publisher:
@@ -18,13 +18,9 @@ datePublishedOriginal: '2017-04-23T18:29:04.951Z'
 _type: MediaObject
 
 ---
-TBC
-
-Respect:
-
 # Want to know more about what each party is standing for?
 
-Around a general election each party brings out a document called a manifesto. 
+Around a general election each party brings out a document called a manifesto.
 
 A manifesto spells out what the party hopes to achieve when elected. The manifesto will give voters a general idea of what the party stands for, even though some of the policies can be a bit far-fecthed and wil never be put into practice.
 
@@ -32,7 +28,7 @@ As this election was set up in a SNAP the manifestos have not been written, but 
 
 ## Labour:
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3fab4f281299eb8b0b2506216207b2d5/noop.png?input=http%3A%2F%2Fwww.labour.org.uk%2Fpage%2F-%2FImages%2F10-Pledges-share-graphic.png" /><h1>Labour's 10 pledges to rebuild and transform Britain</h1><p>Find out how we will build a Britain that works for all of us.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63061423085c0aa7b08357a3b4ea1b0795111dc8.png" /><h1>Labour's 10 pledges to rebuild and transform Britain</h1><p>Find out how we will build a Britain that works for all of us.</p></article>
 
 ## Conservaitves:
 
