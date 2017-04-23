@@ -15,7 +15,10 @@ color:
   lightness: 0.3411832069978118
   saturation: 0.4217274314723909
   rhythmicContrast: 0.7489525778219104
-purpose: []
+purpose:
+  - type: external
+    url: 'https://www.gov.uk/register-to-vote'
+    label: Register right here
 title: Show me how to vote
 description: Voting made easy
 author: {}
