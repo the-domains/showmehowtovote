@@ -87,3 +87,7 @@ purpose:
   - type: external
     url: 'https://www.gov.uk/voting-in-the-uk/postal-voting'
     label: Vote by post
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec55a012-6c75-4320-8e3e-1de0be96c9f2.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8f91933-2923-47ff-966a-1c3c4d11fb7e.png
