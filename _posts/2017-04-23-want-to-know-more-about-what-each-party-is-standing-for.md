@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Around a general election each party brings out a document called a
-  manifesto. 
-dateModified: '2017-04-23T18:29:04.224Z'
-datePublished: '2017-04-23T18:29:04.951Z'
+description: TBC
+dateModified: '2017-04-23T18:35:43.092Z'
+datePublished: '2017-04-23T18:35:43.738Z'
 title: Want to know more about what each party is standing for?
 author: []
 publisher:
@@ -14,12 +12,16 @@ publisher:
   domain: www.labour.org.uk
 via: {}
 isBasedOnUrl: 'http://www.labour.org.uk/index.php/10-pledges'
+sourcePath: _posts/2017-04-23-want-to-know-more-about-what-each-party-is-standing-for.md
 starred: false
 datePublishedOriginal: '2017-04-23T18:29:04.951Z'
-sourcePath: _posts/2017-04-23-want-to-know-more-about-what-each-party-is-standing-for.md
 _type: MediaObject
 
 ---
+TBC
+
+Respect:
+
 # Want to know more about what each party is standing for?
 
 Around a general election each party brings out a document called a manifesto. 
@@ -28,4 +30,32 @@ A manifesto spells out what the party hopes to achieve when elected. The manifes
 
 As this election was set up in a SNAP the manifestos have not been written, but the parties have put forward some pledges:
 
-<article style=""><img src="http://www.labour.org.uk/page/-/Images/10-Pledges-share-graphic.png" /><h1>Labour's 10 pledges to rebuild and transform Britain</h1><p>Find out how we will build a Britain that works for all of us.</p></article>
+## Labour:
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3fab4f281299eb8b0b2506216207b2d5/noop.png?input=http%3A%2F%2Fwww.labour.org.uk%2Fpage%2F-%2FImages%2F10-Pledges-share-graphic.png" /><h1>Labour's 10 pledges to rebuild and transform Britain</h1><p>Find out how we will build a Britain that works for all of us.</p></article>
+
+## Conservaitves:
+
+TBC
+
+## Liberal Democrats:
+
+TBC
+
+## Green:
+
+TBC
+
+## UK Independence Party:
+
+TBC
+
+## SNP:
+
+TBC
+
+## Plaid Cymru:
+
+TBC
+
+## Others:
