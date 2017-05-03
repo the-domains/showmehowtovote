@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: On this page you can find out about registering to vote with no fixed address.
-dateModified: '2017-05-03T15:33:22.881Z'
-datePublished: '2017-05-03T15:33:23.767Z'
+dateModified: '2017-05-03T15:33:47.168Z'
+datePublished: '2017-05-03T15:33:47.493Z'
 title: I have no fixed or registered address
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-05-03-i-have-no-fixed-or-registered-address.md
 starred: false
 datePublishedOriginal: '2017-05-03T15:33:23.767Z'
-sourcePath: _posts/2017-05-03-i-have-no-fixed-or-registered-address.md
 url: i-have-no-fixed-or-registered-address/index.html
 _type: Article
 
