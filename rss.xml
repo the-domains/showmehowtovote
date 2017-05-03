@@ -4,16 +4,9 @@
         <description><![CDATA[Show me how to vote]]></description>
         <link>http://showmehowtovote.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 May 2017 15:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2017 15:34:09 GMT</lastBuildDate>
         <atom:link href="http://showmehowtovote.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 May 2017 15:33:24 GMT</pubDate>
-        <item>
-            <title><![CDATA[Vote]]></title>
-            <description><![CDATA[<h1>Vote</h1>,<p>If you’re British, you can vote on the 8th June.</p>,<p>You just need to have registered with your voting address.</p>,<p>As long as you’re 18 or over on the 8th June (16 in Scotland) and have no serious criminal convictions, you can vote. If you’re abroad for holidays, work or study, that’s not a problem.</p>,<ul><li>Over 18 for 8th June 2017 (over 16 in Scotland)</li><li>Renting or home owner</li><li>British born, commonwealth citizen or Naturalised</li></ul>,<h1>Registering</h1>,<p><em>It takes 5 minutes to register.</em></p>,<p><em>You can register from your phone.</em></p>,<p>You’ll need.</p>,<ul><li>Name and date of birth</li><li>National Insurance Number</li><li>Address at the time of the Vote</li></ul>,<p>That’s it. Click below, and in 5 minutes you’ll be done.</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d05ac0bcfcd44dfba0e0f6033ececd4d2c9fba3.png"><h1>Register to vote - GOV.UK</h1><p>Get on the electoral register so you can vote in elections and referendums.</p></article>]]></description>
-            <link>http://showmehowtovote.co.uk/vote/index.html</link>
-            <guid isPermaLink="false">f0dd0367-be32-4e21-a53e-24b2f790c8d6</guid>
-            <pubDate>Sat, 22 Apr 2017 20:45:30 GMT</pubDate>
-        </item>
+        <pubDate>Wed, 03 May 2017 15:33:49 GMT</pubDate>
         <item>
             <title><![CDATA[Not free on the 8th June? Postal vote is easy.]]></title>
             <description><![CDATA[<h1>Not free on the 8th June? Postal vote is easy.</h1>,<p>A postal vote is the same as a vote done on election day. You just need to register, then post it in advance.</p>,<p>Here’s how:</p>,<article><h1>Apply for a postal vote - GOV.UK</h1><p>Anyone can apply to vote by post. You don&apos;t need to give a reason.</p></article>,<p>If you know someone who can’t be there - like Gran or your cousin Mildred - let them know too.</p>]]></description>
@@ -23,8 +16,8 @@
         </item>
         <item>
             <title><![CDATA[Moved House? Renting? No Problem.]]></title>
-            <description><![CDATA[<h1>Moved House? Renting? No Problem.</h1>,<p>If you have moved home since you registered (or plan to), it’s just 5 minutes to update your details. </p>,<p>Just register with the below link, and update your details:</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/319b77cf2b92ff6827a3dc4ba4693a79/noop.png?input=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fstatic%2Fopengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png"><h1>Register to vote - GOV.UK</h1><p>Get on the electoral register so you can vote in elections and referendums.</p></article>]]></description>
-            <link>https://www.registertovote.service.gov.uk/register-to-vote/country-of-residence</link>
+            <description><![CDATA[<h1>Moved House? Renting? No Problem.</h1>,<p>If you have moved home since you registered (or plan to), it’s just 5 minutes to update your details.</p>,<p>Just register with the below link, and update your details:</p>,<article><h1>Register to vote - GOV.UK</h1><p>Get on the electoral register so you can vote in elections and referendums.</p></article>]]></description>
+            <link>http://showmehowtovote.co.uk/moved-house-renting-no-problem/index.html</link>
             <guid isPermaLink="false">0866411e-fa12-4b86-9dc2-f431044c3bc9</guid>
             <pubDate>Sat, 22 Apr 2017 21:01:28 GMT</pubDate>
         </item>
@@ -48,6 +41,13 @@
             <link>http://showmehowtovote.co.uk/want-to-know-more-about-what-each-party-is-standing-for/index.html</link>
             <guid isPermaLink="false">5babdd8a-15d8-479c-bbba-895902b1bf57</guid>
             <pubDate>Sun, 23 Apr 2017 18:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vote]]></title>
+            <description><![CDATA[<h1>Vote</h1>,<p>If you’re British, you can vote on the 8th June.</p>,<p>You just need to have registered with your voting address.</p>,<p>As long as you’re 18 or over on the 8th June (16 in Scotland) and have no serious criminal convictions, you can vote. If you’re abroad for holidays, work or study, that’s not a problem.</p>,<ul><li>Over 18 for 8th June 2017 (over 16 in Scotland)</li><li>Renting or home owner</li><li>British born, commonwealth citizen or Naturalised</li></ul>,<h1>Registering</h1>,<p><em>It takes 5 minutes to register.</em></p>,<p><em>You can register from your phone.</em></p>,<p>You’ll need.</p>,<ul><li>Name and date of birth</li><li>National Insurance Number</li><li>Address at the time of the Vote</li></ul>,<p>That’s it. Click below, and in 5 minutes you’ll be done.</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d05ac0bcfcd44dfba0e0f6033ececd4d2c9fba3.png"><h1>Register to vote - GOV.UK</h1><p>Get on the electoral register so you can vote in elections and referendums.</p></article>]]></description>
+            <link>http://showmehowtovote.co.uk/vote/index.html</link>
+            <guid isPermaLink="false">f0dd0367-be32-4e21-a53e-24b2f790c8d6</guid>
+            <pubDate>Sat, 22 Apr 2017 20:45:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
